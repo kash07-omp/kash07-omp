@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I´m currently co-working on Nexus, my own RTS browser game<br>🏡 I´m working from home in Whakoom Comics as Web Developer<br>👨‍💻 I work with .NET 5 and 6, .NET Framework 4.8 and a lot of JS, HTML and CSS<br>❤️ In love with .NET MVC<br><br>I'm also a metal musician 🤘 and an amateur fantasy writer 📜
+🚀 I´m currently co-working on Nexus, my own RTS browser game<br>🏡 I´m working from home in Whakoom Comics as .NET Web Developer<br>👨‍💻 I work with .NET 5 and 6, .NET Framework 4.8 and a lot of JS, HTML and CSS<br>❤️ In love with .NET MVC<br><br>I'm also a metal musician 🤘 and an amateur fantasy writer 📜
 
 
 # 💻 Tech Stack:
